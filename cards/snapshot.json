@@ -1,0 +1,185 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-10T12:52:53.854Z",
+  "user": {
+    "login": "Achinoise1",
+    "name": "Today_Red",
+    "createdYear": 2021,
+    "followers": 1
+  },
+  "repos": {
+    "count": 24,
+    "stars": 2,
+    "forks": 0,
+    "top": [
+      {
+        "name": "DocFlow",
+        "stars": 1,
+        "language": "Python"
+      },
+      {
+        "name": "Rent-Boats",
+        "stars": 0,
+        "language": "HTML"
+      },
+      {
+        "name": "Assembly-Language",
+        "stars": 0,
+        "language": "Assembly"
+      },
+      {
+        "name": "Knowledge-Graph",
+        "stars": 0,
+        "language": "Python"
+      },
+      {
+        "name": "ReadBook_Rebuild_React",
+        "stars": 0,
+        "language": "JavaScript"
+      },
+      {
+        "name": "Individual-Website",
+        "stars": 0,
+        "language": "TypeScript"
+      }
+    ]
+  },
+  "contributions": {
+    "allTime": 413,
+    "pastYear": 138,
+    "commits": 117,
+    "pullRequests": 5,
+    "issues": 2,
+    "reviews": 0,
+    "private": 0
+  },
+  "calendar": {
+    "weeks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      4,
+      0,
+      0,
+      5,
+      45,
+      7,
+      8,
+      7,
+      3,
+      1,
+      1,
+      2,
+      9,
+      20,
+      6,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      4,
+      0,
+      0,
+      0,
+      5,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      0,
+      0,
+      3,
+      4
+    ]
+  },
+  "languages": [
+    {
+      "name": "Python",
+      "color": "#3572A5",
+      "bytes": 1028333
+    },
+    {
+      "name": "TypeScript",
+      "color": "#3178c6",
+      "bytes": 273486
+    },
+    {
+      "name": "JavaScript",
+      "color": "#f1e05a",
+      "bytes": 205522
+    },
+    {
+      "name": "TeX",
+      "color": "#3D6117",
+      "bytes": 115358
+    },
+    {
+      "name": "CSS",
+      "color": "#663399",
+      "bytes": 61853
+    },
+    {
+      "name": "Shell",
+      "color": "#89e051",
+      "bytes": 33645
+    },
+    {
+      "name": "PowerShell",
+      "color": "#012456",
+      "bytes": 22481
+    },
+    {
+      "name": "SCSS",
+      "color": "#c6538c",
+      "bytes": 20858
+    },
+    {
+      "name": "Assembly",
+      "color": "#6E4C13",
+      "bytes": 10713
+    },
+    {
+      "name": "Batchfile",
+      "color": "#C1F12E",
+      "bytes": 914
+    },
+    {
+      "name": "Less",
+      "color": "#1d365d",
+      "bytes": 850
+    },
+    {
+      "name": "C++",
+      "color": "#f34b7d",
+      "bytes": 810
+    },
+    {
+      "name": "MDX",
+      "color": "#fcb32c",
+      "bytes": 118
+    },
+    {
+      "name": "Java",
+      "color": "#b07219",
+      "bytes": 106
+    }
+  ]
+}
